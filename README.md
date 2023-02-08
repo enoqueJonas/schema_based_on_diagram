@@ -33,15 +33,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 Schema Based On Diagram <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Schema Based On Diagram ** is a realtional database.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
 <summary>Database</summary>
@@ -50,27 +46,22 @@ This repository includes files with plain SQL that can be used to recreate a dat
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **Store information**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
