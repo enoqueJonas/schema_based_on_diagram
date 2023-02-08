@@ -33,7 +33,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 Schema Based On Diagram <a name="about-project"></a>
 
-**Schema Based On Diagram ** is a realtional database.
+**Schema Based On Diagram** is a realtional database.
 
 ## 🛠 Built With <a name="built-with"></a>
 
